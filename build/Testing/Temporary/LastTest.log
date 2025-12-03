@@ -1,0 +1,237 @@
+Start testing: Dec 04 01:19 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/9 Testing: NPCTest.NPCCreation
+1/9 Test: NPCTest.NPCCreation
+Command: "C:/Users/Alyona/2kurs/oop/6/build/lab06_tests.exe" "--gtest_filter=NPCTest.NPCCreation" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/6/build
+"NPCTest.NPCCreation" start time: Dec 04 01:19 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = NPCTest.NPCCreation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.NPCCreation
+[       OK ] NPCTest.NPCCreation (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.NPCCreation" end time: Dec 04 01:19 RTZ 2 (çèìà)
+"NPCTest.NPCCreation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/9 Testing: NPCTest.CoordinatesValidation
+2/9 Test: NPCTest.CoordinatesValidation
+Command: "C:/Users/Alyona/2kurs/oop/6/build/lab06_tests.exe" "--gtest_filter=NPCTest.CoordinatesValidation" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/6/build
+"NPCTest.CoordinatesValidation" start time: Dec 04 01:19 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = NPCTest.CoordinatesValidation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.CoordinatesValidation
+[       OK ] NPCTest.CoordinatesValidation (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.CoordinatesValidation" end time: Dec 04 01:19 RTZ 2 (çèìà)
+"NPCTest.CoordinatesValidation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/9 Testing: NPCTest.DistanceCalculation
+3/9 Test: NPCTest.DistanceCalculation
+Command: "C:/Users/Alyona/2kurs/oop/6/build/lab06_tests.exe" "--gtest_filter=NPCTest.DistanceCalculation" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/6/build
+"NPCTest.DistanceCalculation" start time: Dec 04 01:19 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = NPCTest.DistanceCalculation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.DistanceCalculation
+[       OK ] NPCTest.DistanceCalculation (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.DistanceCalculation" end time: Dec 04 01:19 RTZ 2 (çèìà)
+"NPCTest.DistanceCalculation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/9 Testing: NPCTest.VisitorPatternCorrectness
+4/9 Test: NPCTest.VisitorPatternCorrectness
+Command: "C:/Users/Alyona/2kurs/oop/6/build/lab06_tests.exe" "--gtest_filter=NPCTest.VisitorPatternCorrectness" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/6/build
+"NPCTest.VisitorPatternCorrectness" start time: Dec 04 01:19 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = NPCTest.VisitorPatternCorrectness
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.VisitorPatternCorrectness
+[       OK ] NPCTest.VisitorPatternCorrectness (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.VisitorPatternCorrectness" end time: Dec 04 01:19 RTZ 2 (çèìà)
+"NPCTest.VisitorPatternCorrectness" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/9 Testing: NPCTest.SquirrelFightLogic
+5/9 Test: NPCTest.SquirrelFightLogic
+Command: "C:/Users/Alyona/2kurs/oop/6/build/lab06_tests.exe" "--gtest_filter=NPCTest.SquirrelFightLogic" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/6/build
+"NPCTest.SquirrelFightLogic" start time: Dec 04 01:19 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = NPCTest.SquirrelFightLogic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.SquirrelFightLogic
+[       OK ] NPCTest.SquirrelFightLogic (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.SquirrelFightLogic" end time: Dec 04 01:19 RTZ 2 (çèìà)
+"NPCTest.SquirrelFightLogic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/9 Testing: NPCTest.WerewolfFightLogic
+6/9 Test: NPCTest.WerewolfFightLogic
+Command: "C:/Users/Alyona/2kurs/oop/6/build/lab06_tests.exe" "--gtest_filter=NPCTest.WerewolfFightLogic" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/6/build
+"NPCTest.WerewolfFightLogic" start time: Dec 04 01:19 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = NPCTest.WerewolfFightLogic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.WerewolfFightLogic
+[       OK ] NPCTest.WerewolfFightLogic (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.WerewolfFightLogic" end time: Dec 04 01:19 RTZ 2 (çèìà)
+"NPCTest.WerewolfFightLogic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/9 Testing: NPCTest.DruidFightLogic
+7/9 Test: NPCTest.DruidFightLogic
+Command: "C:/Users/Alyona/2kurs/oop/6/build/lab06_tests.exe" "--gtest_filter=NPCTest.DruidFightLogic" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/6/build
+"NPCTest.DruidFightLogic" start time: Dec 04 01:19 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = NPCTest.DruidFightLogic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.DruidFightLogic
+[       OK ] NPCTest.DruidFightLogic (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.DruidFightLogic" end time: Dec 04 01:19 RTZ 2 (çèìà)
+"NPCTest.DruidFightLogic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/9 Testing: NPCTest.SaveAndLoad
+8/9 Test: NPCTest.SaveAndLoad
+Command: "C:/Users/Alyona/2kurs/oop/6/build/lab06_tests.exe" "--gtest_filter=NPCTest.SaveAndLoad" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/6/build
+"NPCTest.SaveAndLoad" start time: Dec 04 01:19 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = NPCTest.SaveAndLoad
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.SaveAndLoad
+[       OK ] NPCTest.SaveAndLoad (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.SaveAndLoad" end time: Dec 04 01:19 RTZ 2 (çèìà)
+"NPCTest.SaveAndLoad" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/9 Testing: NPCTest.FactoryFunction
+9/9 Test: NPCTest.FactoryFunction
+Command: "C:/Users/Alyona/2kurs/oop/6/build/lab06_tests.exe" "--gtest_filter=NPCTest.FactoryFunction" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Alyona/2kurs/oop/6/build
+"NPCTest.FactoryFunction" start time: Dec 04 01:19 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = NPCTest.FactoryFunction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.FactoryFunction
+[       OK ] NPCTest.FactoryFunction (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.FactoryFunction" end time: Dec 04 01:19 RTZ 2 (çèìà)
+"NPCTest.FactoryFunction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 04 01:19 RTZ 2 (çèìà)
